@@ -35,3 +35,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Leads exportados (datos personales, no versionar)
+leads-*.csv
+leads-*.xlsx
